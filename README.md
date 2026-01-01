@@ -30,16 +30,18 @@ MySQL | Tableau Public | Data Cleaning | Data Analysis | Data Visualization / Da
 
 How to Explore:
 
-1. Review the Project Summary & Key Insights for context and findings
+1. Review the Project Summary & Key Insights for context and findings.
 
-2. Check the raw CSV files to understand the original data
+2. Check the raw CSV files to understand the original data.
 
-3. Refer to the MySQL scripts to see the data cleaning and denormalization logic
+3. Check the Denormalized CSv file to see the final table structure.
 
-4. View the ERD diagram to understand dataset relationships
+4. Refer to the MySQL scripts to see the data cleaning and denormalization logic.
 
-5. Explore the dashboard screenshots for a quick overview
+5. View the ERD diagram to understand dataset relationships.
 
-6. Open the Tableau Public dashboards for interactive analysis
+6. Explore the dashboard screenshots for a quick overview.
+   
+7. Open the Tableau Public dashboards for interactive analysis.
 
 Tableau Public Dashboard Link: https://public.tableau.com/views/Hospital_Analytics_Dashboard_17639123185040/OperationalInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
