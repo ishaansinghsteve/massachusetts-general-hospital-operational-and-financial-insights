@@ -34,7 +34,7 @@ How to Explore:
 
 2. Check the raw CSV files to understand the original data.
 
-3. Check the Denormalized CSv file to see the final table structure.
+3. Check the Denormalized CSV file to see the final table structure.
 
 4. Refer to the MySQL scripts to see the data cleaning and denormalization logic.
 
@@ -45,3 +45,5 @@ How to Explore:
 7. Open the Tableau Public dashboards for interactive analysis.
 
 Tableau Public Dashboard Link: https://public.tableau.com/views/Hospital_Analytics_Dashboard_17639123185040/OperationalInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Denormalized CSV Table Link: https://docs.google.com/spreadsheets/d/1Q0_yzMXWrBmxw2ES-CnckvQh_q8OYDIcFJ2XHSn0YQw/edit?usp=sharing
